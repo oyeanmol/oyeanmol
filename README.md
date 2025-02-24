@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm Anmol and I'm Computer Science Student pursuing BCA (Bachelor's Of Computer Applications). I have worked with a variety of Languages and made Projects. I try to create what's for me the perfect project and user interface design.<br><br>My area of Interest Includes:<br><br><ul><li>Frontend Web Development</li><li>Web Application Pentesting</li><li>Network Pentesting (Internal/External)</li><li>Script Automation</li><li>Exploit Development</li>
+Anmol Shah, A cybersecurity professional, a security researcher, and a programmer with a flair for discovering vulnerabilites and enhancing security measures. With extensive experience in threat hunting, vulnerability assessment, and SOC management. He excels in identifying and preventing security flaws and fortyfying defences.
+
+Skills:
+<ul>
+ <li>Threat Hunting & Incident Response</li>
+ <li>Vulnerability Assessment</li>
+ <li>SOC Operations & Management</li>
+ <li>Red Teaming & Penetration Testing</li>
+ <li>Python, Powershell & Bash</li>
+ <li>Malware Analysis & Forensics</li>
+</ul>
+
+Anmol is always eager to connect with fellow professionals and explore new opportunities to advance the field of cybersecurity.
 
 
 ## 🌐 Socials:
