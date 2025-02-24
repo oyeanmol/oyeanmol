@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Anmol Shah
 Anmol Shah, A cybersecurity professional, a security researcher, and a programmer with a flair for discovering vulnerabilites and enhancing security measures. With extensive experience in threat hunting, vulnerability assessment, and SOC management. He excels in identifying and preventing security flaws and fortyfying defences.
 
 Skills:
